@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Final Output
 
-![Black Hole App Screenshot 1](assets/1.jpg)
-![Black Hole App Screenshot 2](assets/2.jpg)
+![Black Hole App Screenshot 1](1.jpg)
+![Black Hole App Screenshot 2](2.jpg)
